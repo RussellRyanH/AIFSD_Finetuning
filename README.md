@@ -76,3 +76,5 @@ I could not get the CodeBLEU calculation to function on my local machine, so thi
 Upload the test_data.csv file created in the previous section to Google Drive
 
 When running the notebook, be sure to update the path to test_data.csv in order to reflect the configuration of your Google Drive.
+
+Note: The testset-results.csv file that I generated is located in the evaluation_data folder
