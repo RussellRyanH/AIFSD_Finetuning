@@ -51,7 +51,11 @@ Run the notebook. This is where the model will be trained on the fine-tuning dat
 
 The trained model and the tokenizer will be saved to the Trained_Model folder in order to be used in the model evaluation step
 
-Note that in the GitHub, I have included the model that I trained, so you should be able to load this one in order to replicate my results.
+I have upload my trained model to Google Drive. Anyone with a W&M email should be able to access it at 
+
+https://drive.google.com/drive/folders/1xU4C2Q5oFpwMxMNzsZ2V-OwUDPPuHplf?usp=drive_link
+
+Which should allow you to load my model to be able to recreate my results.
 
 ## 4. Prepare for model evaluation
 
